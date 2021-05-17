@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "internship.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -706,9 +706,9 @@
         }
       ]
     },
-    "page1.html": {
+    "education background.html": {
       "settings": {
-        "title": "Page 1",
+        "title": "Education Background",
         "order": 5
       },
       "components": [
@@ -1415,9 +1415,9 @@
         }
       ]
     },
-    "page2.html": {
+    "works.html": {
       "settings": {
-        "title": "Page 2",
+        "title": "Works",
         "order": 4
       },
       "components": [
@@ -2373,9 +2373,9 @@
         }
       ]
     },
-    "page3.html": {
+    "research projects.html": {
       "settings": {
-        "title": "Page 3",
+        "title": "Research Projects",
         "order": 3
       },
       "components": [
@@ -3009,9 +3009,9 @@
         }
       ]
     },
-    "page4.html": {
+    "activities.html": {
       "settings": {
-        "title": "Page 4",
+        "title": "Activities",
         "order": 2
       },
       "components": [
@@ -3636,9 +3636,9 @@
         }
       ]
     },
-    "page5.html": {
+    "internship.html": {
       "settings": {
-        "title": "Page 5",
+        "title": "Internship",
         "order": 1
       },
       "components": [
